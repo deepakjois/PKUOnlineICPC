@@ -1,0 +1,2 @@
+#!/bin/sh
+javac  -d bin src/problem$1/Main.java

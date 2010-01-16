@@ -1,0 +1,2 @@
+#!/bin/sh
+java -cp bin problem$1.Main < src/problem$1/in.txt
